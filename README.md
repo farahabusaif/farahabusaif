@@ -34,7 +34,6 @@
 | --- | --- | --- |
 | [**Project name**](https://github.com/YOUR_USERNAME/your-repo) | One line about what it does | `C++` |
 | [**Project name**](https://github.com/YOUR_USERNAME/your-repo) | One line about what it does | `Python` |
-| [**Project name**](https://github.com/YOUR_USERNAME/your-repo) | One line about what it does | `Game Dev` |
 
 ---
 
@@ -43,15 +42,6 @@
 - Build my skills in AI and game development
 - Contribute to projects on GitHub and grow my portfolio
 - Keep learning new technologies every day
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=E11D48&icon_color=E11D48&text_color=6b7280&bg_color=00000000" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=E11D48&text_color=6b7280&bg_color=00000000" />
-</p>
 
 ---
 
