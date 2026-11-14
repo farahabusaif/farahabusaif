@@ -48,8 +48,8 @@
 ### 📫 Where to find me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23E11D48.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23E11D48.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/farahabusaif" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23E11D48.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="mailto:farahabusaif707@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23E11D48.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
