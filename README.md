@@ -27,7 +27,7 @@
 </p>
 
 ---
-
+<!--
 ### 🎁 Projects
 
 | Project | Description | Tech |
@@ -36,7 +36,7 @@
 | [**Project name**](https://github.com/YOUR_USERNAME/your-repo) | One line about what it does | `Python` |
 
 ---
-
+-->
 ### 🎯 My goals
 
 - Build my skills in AI and game development
