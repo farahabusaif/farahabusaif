@@ -2,12 +2,12 @@
 
 <p align="center">
   Welcome to my page! I'm <b>Farah Abusaif</b>, a <b>Management Information Systems (MIS)</b> student at <b>Applied Science University</b>.<br/>
-  📍 Based in <b>YOUR CITY, COUNTRY</b>
+  📍 Based in <b>Amman, Jordan</b>
 </p>
 
 <p align="center">
   I love building things with code, I'm exploring <b>AI</b> and <b>Game Development</b>,<br/>
-  and I always try to stay up to date with the latest technologies. 🚀
+  and I always try to be up to date with the latest technologies. 🚀
 </p>
 
 ---
@@ -17,8 +17,6 @@
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-E11D48?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-E11D48?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-E11D48?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-E11D48?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ### 🌱 Currently learning
@@ -61,7 +59,6 @@
 
 <p>
   <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23E11D48.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%23E11D48.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23E11D48.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
